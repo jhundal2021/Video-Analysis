@@ -9,11 +9,9 @@ git clone https://github.com/insiyab/clickbait-detection-extension.git
 
 # Download and copy your Google Cloud API JSON file into the directory
 cp <api-file>.json clickbait-detect-extension/cloud-api.json
-
 ```
 After this to run the program:
 
 ```
 python3 analyze_video.py <path to the video>
-
 ```
