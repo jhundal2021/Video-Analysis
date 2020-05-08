@@ -15,3 +15,5 @@ After this to run the program:
 ```
 python3 analyze_video.py <path to the video>
 ```
+View the full project repo at:
+https://github.com/insiyab/clickbait-detection-extension
